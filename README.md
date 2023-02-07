@@ -19,4 +19,5 @@ cv2.__version__
 ---------------------------------------
 ## Documentation
 [OpenCV tutorial oxxostudio](https://steam.oxxostudio.tw/category/python/ai/ai-cars-dectection.html)
+
 [PyImageSearch](https://pyimagesearch.com/start-here/)
